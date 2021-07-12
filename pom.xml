@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.kohsuke.stapler</groupId>
       <artifactId>stapler</artifactId>
-      <version>1.228</version>
+      <version>1.263</version>
     </dependency>
     <dependency>
       <groupId>com.cloudbees</groupId>
